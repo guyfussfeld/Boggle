@@ -14,5 +14,4 @@ The player searches for valid words on a randomized board of letters before the 
 - Click adjacent letters to form words. 
 - Valid words appear in the list on the right, and your **score** updates.  
 - You have a limited amount of **time** to find as many words as possible.  
-- Words must be valid English words (checked against the included dictionary).
-
+- Press **Play** restart the game. 
