@@ -1,7 +1,7 @@
 # Boggle Game
 
-An interactive game featuring a character exploring an environmental area.  
-The game world includes trees, leaves, and fruits that interact dynamically with the avatar.
+An interactive Boggle word game built in Python.
+The player searches for valid words on a randomized board of letters before the timer runs out. Words are validated against a dictionary, and the score updates dynamically as you play.
 
 <p float="left">
   <img src="images/screenshot1.jpeg" width="400" height="300"/>
@@ -10,9 +10,10 @@ The game world includes trees, leaves, and fruits that interact dynamically with
 
 ## 🎮 How to Play
 
-Before running the game, you need to add the **DanoGameLab** dependency:  
-**File → Project Structure → Modules → Dependencies → DanoGameLab.jar**
-
-Once added, run the main class to start the game.  
-Use the avatar to explore, jump, and interact with the environment.
+- When the game starts, a **random board of letters** is generated.  
+- Click adjacent letters to form words.  
+- Press **Play / Submit** to confirm a word.  
+- Valid words appear in the list on the right, and your **score** updates.  
+- You have a limited amount of **time** to find as many words as possible.  
+- Words must be valid English words (checked against the included dictionary).
 
