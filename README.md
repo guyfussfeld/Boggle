@@ -11,8 +11,7 @@ The player searches for valid words on a randomized board of letters before the 
 ## 🎮 How to Play
 
 - When the game starts, a **random board of letters** is generated.  
-- Click adjacent letters to form words.  
-- Press **Play / Submit** to confirm a word.  
+- Click adjacent letters to form words. 
 - Valid words appear in the list on the right, and your **score** updates.  
 - You have a limited amount of **time** to find as many words as possible.  
 - Words must be valid English words (checked against the included dictionary).
