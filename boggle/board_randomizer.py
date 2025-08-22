@@ -1,5 +1,5 @@
 ##############################################################################
-# FILE: boggle_board_randomizer.py
+# FILE: board_randomizer.py
 # EXERCISE: Intro2cs ex11 2022-2023
 # WRITER: Intro2cs staff
 # DESCRIPTION:A helper file for ex11 that randomizes a Boggle board
