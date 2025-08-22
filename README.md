@@ -1,7 +1,6 @@
 # Boggle Game
 
 An interactive Boggle word game built in Python.
-The player searches for valid words on a randomized board of letters before the timer runs out. Words are validated against a dictionary, and the score updates dynamically as you play.
 
 <p float="left">
   <img src="images/screenshot1.jpeg" width="400" height="300"/>
